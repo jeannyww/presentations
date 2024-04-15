@@ -51,6 +51,7 @@ I attest that this presentation made use of AI in the following ways:
 - Use guidelines
 - Accessing institutional copilot
 - Use cases in statistical programming
+- slides at [https://jeannyww.github.io/presentations](https://jeannyww.github.io/presentations)
 
 
 
