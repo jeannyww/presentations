@@ -139,7 +139,7 @@ It is harder to fact check for hallucinations and bias if you try to use gAI to 
 ## These use cases are operationalized through prompting and iteration
 - Prompting: the process of querying AI chatbots for information.
   - Prompting benefits from direct instruction that provides useful context.
-- Iteration: the process of prompting, evaluating, and reprompting.
+- Iteration: the process of prompting, evaluating, and re-prompting.
 
 
 ## "Three-Step Approach":{.smaller}
@@ -168,9 +168,9 @@ Also see ['prompt chaining'](https://github.com/PickleBoxer/dev-chatgpt-prompts)
     - You have error and/or warning messages
 2. Backtrack
     - It might be hallucinations. Manually reference the documentation specific to the programming language.
-    - It might be your prompt. Revise your prompt by breaking down the problem space into 'bridgable' knowledge gaps.
+    - It might be your prompt. Revise your prompt by breaking down the problem space into 'bridge-able' knowledge gaps.
     - It might be both. Reference the documentation and iteratively re-prompt.
-    - Split your prompt, give examples, be specific, and use reflexion.
+    - Split your prompt, give examples, be specific, and use 'reflexion'.
 
 
 ::: aside
