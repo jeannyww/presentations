@@ -80,7 +80,7 @@ There are  values and expectations associated with using AI with integrity. When
 
 
 ## Responsible usage
-- Multiple sustainability tradeoffs to consider when adopting AI systems^[[Balancing Progress and Responsibility: A Synthesis of Sustainability Trade-Offs of AI-Based Systems](https://arxiv.org/abs/2404.03995)] (Kumar et. al, 2024.)
+- Multiple sustainability tradeoffs to consider when adopting AI systems^[[Balancing Progress and Responsibility: A Synthesis of Sustainability Trade-Offs of AI-Based Systems](https://arxiv.org/abs/2404.03995)(Kumar et. al, 2024.)]
   - Deployment issues, ethics and society, privacy & security, job displacement, environment
 - Environmental costs (energy, raw materials, and water consumption)^[[Energy and Policy Considerations for Deep Learning in NLP](https://aclanthology.org/P19-1355) (Strubell et al., ACL 2019)]
 
