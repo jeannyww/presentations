@@ -1,0 +1,210 @@
+---
+title: Generative AI presentation
+author: Jeanny Wang
+date: 04-04-2024
+format:
+    html:
+        code-fold: false
+        code-overflow:wrap
+        code-line-numbers: false
+        highlight-style: gruvbox
+jupyter: python3
+---
+
+Notes from UNC 2024 Gen AI town hall , hosted by the USG academic affairs.
+Dean of Data sciences Dr. Stan Ahalt.
+
+:::{.notes}
+- 2024 Gen AI town hall
+- Hosted by USG academic affairs
+- Dean of Data sciences Dr. Stan Ahalt
+- UNC Chapel Hill
+- 2024-04-04
+- Jeanny Wang
+:::
+
+Dr. Niel Sharma, academic affairs, department of Student government,
+Advance academic experiences and goals, where AI will have a massive part in those pursuits.
+What are the responsibilities wrt Academic integrity and poor experiences where possible
+
+GenAI education event
+# Dean dr. Stan Ahalt
+- last 7-8 months gen AI, where are we currently? things are changing very rapidly and there is shaking up in the industry because of technology and thinking more carefully about the ROI typical hype cycle and slowdown and appreciation, and maybe a time of levelling out
+- AI is a tool, not a solution
+##  gAI and the private sector
+- it is transformative for many industries gAI (gen AI), GAI (generalizable AI), transformative for many industires, many pundits predict changes will be more than the shifts that the internet wrought. highly capital intensive and intensive for the environment for these data centers
+- suddenly browsing was easy today-- much like the internet came (30 years ago)
+- amount of data that was have access to is dirving training of AI
+- Following the money- receipients NVidia, meta, Grok, Amazon, google
+- Costs per query varies by 120 times (credit is theory ventures). comparing for 50 input and 200 word output, 120 times difference in cost.
+- Bing copilot,
+- utilities vary different models costs and affords,
+- GPUs cranking away does not come for free because it wastes water and heat and environmentally desctructive)
+- AI and your careers, study by mckinsey, the gAI impact on productivity. How much disruption and impact on the area
+- disruptive to sales and software engineering
+- Should there be a change in how programming is taught as well?
+- high tech is very high impact (many big companies try to take advantage to get more profit and lay off workers and 'downsize')
+## How does it impact universities?
+- funding for research, increase accross disciplines
+- gAI funding is increaseing
+- transformative impacts in research teaching and operations
+- how much highly variable investiments to gAI how much is enough
+- feeding it water and electricity, mined from the global south and extractive
+- use perplexity.AI gives better answers for searches
+- what do people need:
+- the key is to write the right kinds of prompts
+- we want online forum for sharing ideas and stratigies
+- refinign text
+- code generation and editing and troubleshooting
+- finding summarizing ltierature
+- preparing manuscripts
+- preparing presentation materials
+- improving experiemntal protocol
+- use with high confidence of what you know what you want
+- make sure that the prompts that you give it are sufficient and then you can tune it up. always cite for the the audience
+## UNC challenges
+- people quick changes in academi skillsets - we are the pipeline, injext ethics and values, guidance, policy, regulations and risk analysis
+- energy/envionrment- new machine rooms to house machines with substantial energy and cooling, document costs, explain values/ROI, translate for people who are not ready, and diversify so that different people use this technology
+- sufficient GPU resources for Compute (partner with whom? microsoft, google, amazong, focus on efficient and explicable models, hallucination detection, KGs and LLMs (knowledge grass and large language models, microsoft 365 copilot in the next few weeks and looks at onedrive materials to ground its voice), find new ways to algorithmic tesesting
+- Data- silo-ed and not a traditional academic 'citizen' - research data, unique academic data, administrative data, library holdings in UNC
+- what do I need to do to get my data reddy
+## Resources for students
+- UNC Chapel Hill genetative AI committee
+- Training
+- Access to microsoft copilot
+- linkedin learning (go.unc.edu/GetStartedWithAI) --. excecllent resources
+- Copilot is now turned on for everybody (copilot with microsoft)
+FeiFei Li
+- the most powerful companies in the world are shaping what AI will become but they won't get it right without the ethos and values of university scientists
+-  be skeptical, critical thinking, we use it, we impact it
+-
+## Advice
+- Reach benefits and challenges posed by AI
+- All techninology will have chnages we can't predict
+- generative AI is team science (team scinece, where AI is a member of our research teams now)
+
+
+# Generative AI, from the director of student conduct
+- academic conduct and considering when to use it
+- it depends on what its uses are, when and how it can be used and cited. seeing public blunders
+- how to use it the best you can and in what setting?
+- Microsoft 365 copilot
+- supportive tools for writing
+- helping to think through for coding
+- how to frame my writing?
+## Misuse
+- plagiarism, unauthorized assistance or unauthorized collaboration
+- cheating
+- violation procedures (AI used to submit and write applications for funding etc. )
+- image generation
+- follow the instructor expectations for the use of AI.
+- ie, if you're not sure then ask questions (grammerly, talk to instructors and faculty and consult the syllabus)
+
+# Matt Duncan, PhD in literature
+- automation and autonomy
+- relfections on gen AI in UNC and in the writing classroom
+- phd in thedept of english and comparative literature
+- AI is a tool for composition
+- interest is AI chatbots
+- text is the focus, but image and sound generators also interests?
+- Parameters for discussion of AI (tool for composition and text generation) tools for text to assist with writing
+## Popular discrouse
+- 'AI' mystified, mystifying, depicted as autonomous, anthropormorphized, speaking iving thingking, it is as best automatic, and may not even be that (but there is immense human labor that is used to make AI appear anthrompormorphic)
+- there is a layer of automation
+## Literatcy is the gateway to autonomy
+- rules are being written, research based in practice is needed
+- grounds for action are administrative and pedagogical, literacy is the gateway to autonomy
+- CAIL (critical literatacy of gAI tools)
+- false positives for AI written?
+- interventions are in the moment
+- scholarly research takes time to
+## CAIL
+- modules on canvas
+##   AI prompting and thinking module
+- understand the differences between human and machine intelligcence
+- How to query chatbots for output
+- understand the role of prompting in developing thinking
+- the response will change based on your input
+- I am part of the aparatus that trains the chatbot
+- ITERATTE
+- ITERATRE
+- learn to engage in a helathy process of AI prompting
+- Practice AI prompting strategies
+- Reflect on ways that AI can further eresearch and thinking
+- prompt writing
+- gAI think about how it extends what we already do
+## Fact checking and Bias
+- understand the strenghts and weaknesses of using gAI tools in the research process
+-  biases and misinformation are incorporated into AI tools
+-  interventions bon human labor
+-  indentify examples of generative AI tools creating incorrect output o 'hallucinations'
+-  strategies to fact check generative AI
+-  tools are bundles in systems of power that comes from a chosen training set that has ideological parameters in mind. notice particular word choces and responses and assess ibiases of the tool
+-
+## Plagiarism and citation
+- understand how AI relates to intellectual property
+- differences between AI processes information and the academi ecxpectations for research
+- spot information in AI output that violates expectations for citation and intellectual property
+- learn to prompt AI to deliver useful citations
+- understand the expectations submitting AI generated content in different cituations
+- Learn to properly cite AI use in the development of your projects
+- be very wary of the training est
+- diaglogue with the chat bot
+
+## AI in english
+- exigent need for this kind of thought
+- templating and genre study - know the rough shapge of something, how a cover letter is supposed to look like? fill out the cover letter template,
+- brainstorming - if you don't know what to do? there are infinite numbers of possibilities for a project and you can bounce them off
+- understanding cultural assumptions - check cultural assumptions and use it to challenge familiar linguistic strucutres that reflect systemic biases
+- outlining research - select something I want to read for a research project, and ask gpt to summarize for them, and note the differences. machines read vs. what we read, how are they difference
+
+## Mainitain autonomy
+- early research suggests non-adoption is a common response around students, but literacy is a key outcome in maintaining autonomy regardless of the adoptions
+- writers might now want to be an adopter of these tools.
+- expressing concerns about losing their authorial voices and being interrupted by AI during their writing processes
+- learning the tools and applying the tools
+- prompt and reprompt and reiterate and iterate,
+- literatcy is a key outcome in maintaining autonomy regardless of adoption
+- whether you use it or not, our encounters of the internet is for AI
+- a critical literatucy of AI is needed
+- how things might be vs how things are and repsond to that
+- dleteriuous program, where information avaialbl to train is more than every before
+- if we reach a point where generative AI has a proof of majority stake on the internet it might failas a content information program bc it may be feeding and training itself
+# Panel
+- it is a technology that will perpetuate inequity
+- enforce critical literacy
+- pay close attention to the flow of capital and flow of power that brings them life
+- be critical about its assessment
+- https://cail.unc.edu/modules/
+- the output is unfavorable because it is easy to clock with social media detecting AI
+- we are exposing the automation of things that can be automated and we now have to do things that are harder
+- reality enforced against a hype cycle
+- and back to understanding the role that tehcnology
+- we adapt to spellcheck word processing and web browsing,
+- maybe sentiment is boradly negative
+- generative AI takes prior data to predicitve data
+- minimize the mundane and elevate the creativitiy?
+- there is not a way to may it easy ot democratize it
+- it may open to be more creative?
+- understand how to use this technology responsibly and carefully
+- carefully constructed requirement of code
+- then figure out how to do unit testing sot hat you can know that this code that was generated correctly I need to know how to use it every time
+- it might change how we write code bc maybe we will be better at testing and writing unit tests ato make sure that the generated codes works
+- how to schedule your time, time managmenet, figuring out how to avoid ocmpeting opportunities and the time what we have to use
+- useful for condensing things in a quick manner what do you acutally need to give yourself more time to do that
+- how does one detect and prevent false positives when using generative AI
+- Application of assistive technology and automation only highlights the need for human intervention more
+- what is the value set for the people who are in the huanities
+- what are the market sources driving about this?
+- economic forces rather than the decline of the skillsets of humanities
+- re-examine how we are applying ourselves to challenges, spawn reveolution for researhc output and writing
+- automated reading large corpus analysis in English departments, do not bury your heads in the sand and apply yourself to the questions being asked. creative endeavors
+- UNC software to detect AI (like turnitin.com version for plagiarism, chatzero, working on and tesitng the validity where the results are variable accorss that)
+- nothing is 100% valid credible and accurate in identifying the use of genAI
+- scraping data from student's onedrive account (microsoft copilot we don't know yet how much granular control we'll be able to impose on the copilot so we odn't know that is a good question about senesitive information )
+- AI in research?
+- discipline by discipline for research replicability
+- Trust is a very interesting word for all of these 3r d party tools for doing scholarly work and managing the scale of the university and that
+- its about trusting motive and its not relaly the product don't trust htis damn product and its the products' allegieances are to themselves and to make money not to you
+- "I didn't know that I could't use it in that format"
+- "it was so much easier to use it and throw in the output wihtout thinking" (seek the right clarity of hwen it can or)
