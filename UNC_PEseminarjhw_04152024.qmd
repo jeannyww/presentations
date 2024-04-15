@@ -24,7 +24,6 @@ format:
         echo: true
         code-block-height: 150px
         show-notes: false
-
 ---
 
 
